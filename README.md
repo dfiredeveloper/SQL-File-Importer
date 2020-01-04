@@ -7,3 +7,5 @@ Used for importing SQL files into database. This saved me a lot of time importin
 - Add ability to select database without touching the code
 - Improve functionalities
 - Better UI/UX
+
+[!Screenshot](screen.png)
