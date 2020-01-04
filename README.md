@@ -8,4 +8,4 @@ Used for importing SQL files into database. This saved me a lot of time importin
 - Improve functionalities
 - Better UI/UX
 
-[!Screenshot](screen.png)
+![Screenshot](screen.png)
